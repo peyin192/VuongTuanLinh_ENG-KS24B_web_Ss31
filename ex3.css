@@ -1,0 +1,16 @@
+#btn-red {
+    background-color: red;
+}
+#btn-green {
+    background-color: green;
+}
+#btn-violet {
+    background-color: violet;
+}
+button {
+    color: white;
+    border: none;
+    padding: 50px 80px;
+    margin: 10px;
+    cursor: pointer;
+}
